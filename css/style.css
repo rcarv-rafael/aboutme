@@ -1,11 +1,8 @@
 body {
-  background-image: url('https://storage.needpix.com/rsynced_images/background-1201003_1280.jpg');
+  background-image: url('https://storage.needpix.com/rsynced_images/artificial-intelligence-2228610_1280.jpg');
   background-size: auto 100vh;
   font-family: Rubik;
-}
-
-.main-div {
-  filter: blur(2px);
+  backdrop-filter: blur(5px);
 }
 
 .menu {
