@@ -1,0 +1,42 @@
+body {
+  background-image: url('https://storage.needpix.com/rsynced_images/background-1201003_1280.jpg');
+  background-size: auto 100vh;
+  font-family: Rubik;
+}
+
+.main-div {
+  filter: blur(2px);
+}
+
+.menu {
+  background-color: #DEDEDE;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: #1e1e1e;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+.site-subtitle,
+.site-title {
+  color: whitesmoke;
+  text-align: center;
+}
+
+.site-subtitle {
+  font-style: italic;
+}
